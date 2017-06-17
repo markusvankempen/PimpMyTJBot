@@ -16,3 +16,12 @@ Here you can find recipes which enhance the standard TJBot.
 ## No 4 - Control TJ via Chatbot from anywhere
 #### Short Video:
 #### Code 
+
+
+### Extras
+### TJBot with Tone Analyser and Twitter
+#### Node-RED Flow : https://github.com/markusvankempen/TJBotWIoTAndTwitter
+### TJBot Weather
+#### Node-RED Flow :https://github.com/markusvankempen/TJBotWIoTAndWeather
+### TJBot IFTTT and Google Assitant
+#### Node-RED Flow :
