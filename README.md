@@ -1,18 +1,18 @@
-# PimpMyTJBot
+## PimpMyTJBot
 Here you can find recipes which enhance the standard TJBot.
 
-# No 1 - Connecting TJBoT to Watson IoT Platform
+## No 1 - Connecting TJBoT to Watson IoT Platform
 #### Short Video: https://youtu.be/4WnfalzKss4
 #### Code https://github.com/markusvankempen/TJBotMQTT
 
-# No 2 - Sending SpeechtoText via TJBoT to Watson IoT Platform and TTS to TJ
+## No 2 - Sending SpeechtoText via TJBoT to Watson IoT Platform and TTS to TJ
 #### Short Video: https://youtu.be/sGN4iGKDHOM
 #### Code https://github.com/markusvankempen/TJBotMqttSttAndTTs
 
-# No 3 - TJBoT to Watson IoT Platform and Conversation
+## No 3 - TJBoT to Watson IoT Platform and Conversation
 #### Short Video: 
 #### Code 
 
-# No 4 - Control TJ via Chatbot from anywhere
+## No 4 - Control TJ via Chatbot from anywhere
 #### Short Video:
 #### Code 
