@@ -16,8 +16,8 @@ Here you can find recipes which enhance the standard TJBot.
 #### Code : https://github.com/markusvankempen/TJBotWIoTAndConversation
 
 ## No 4 - Control TJ via a Chatbot from anywhere
-#### Short Video:
-#### Code : 
+#### Short Video: https://youtu.be/i_r6BFsCIQE
+#### Code : https://github.com/markusvankempen/TJBotAndChatBot
 
 
 ### Extras
