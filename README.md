@@ -12,7 +12,7 @@ Here you can find recipes which enhance the standard TJBot.
 #### Code : https://github.com/markusvankempen/TJBotMqttSttAndTTs
 
 ## No 3 - TJBoT to Watson IoT Platform and Conversation
-#### Short Video: 
+#### Short Video: https://youtu.be/rL14kT2-OLs
 #### Code : https://github.com/markusvankempen/TJBotWIoTAndConversation
 
 ## No 4 - Control TJ via a Chatbot from anywhere
