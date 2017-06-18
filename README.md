@@ -1,7 +1,7 @@
 ## PimpMyTJBot
 Here you can find recipes which enhance the standard TJBot.
 ## Basic setup instructions video
-#### go through these steps 1stplease -  https://youtu.be/vLW-JrafW30
+#### go through these steps 1st please -  https://youtu.be/vLW-JrafW30
 ###
 ## No 1 - Connecting TJBoT to Watson IoT Platform
 #### Short Video: https://youtu.be/4WnfalzKss4
