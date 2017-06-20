@@ -24,6 +24,8 @@ Here you can find recipes which enhance the standard TJBot.
 
 ### Extras
 ### TJBot with Tone Analyser and Twitter
+<img src="https://raw.githubusercontent.com/markusvankempen/TJBotWIoTAndTwitter/master/images/Screenshot%202017-06-20%2016.41.20.png" width="450"/>
+
 #### Short Video: https://youtu.be/eXYAGEDsfTg
 #### Node-RED Flow : https://github.com/markusvankempen/TJBotWIoTAndTwitter
 ### TJBot and the Weather Service
