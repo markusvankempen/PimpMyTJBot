@@ -4,10 +4,13 @@ Here you can find recipes which enhance the standard TJBot.
 #### go through these steps 1st please -  https://youtu.be/vLW-JrafW30
 ###
 ## No 1 - Connecting TJBoT to Watson IoT Platform
+### Overview
+<img src="https://raw.githubusercontent.com/markusvankempen/TJBotMQTT/master/images/Screenshot%202017-06-20%2016.52.31.png" width="450"/>
+
 #### Short Video: https://youtu.be/4WnfalzKss4
 #### Code : https://github.com/markusvankempen/TJBotMQTT
 
-## No 2 - Sending SpeechtoText via TJBoT to Watson IoT Platform and TTS to back TJ
+## No 2 - Sending SpeechtoText via TJBoT to Watson IoT Platform and TTS back to TJ
 #### Short Video: https://youtu.be/sGN4iGKDHOM
 #### Code : https://github.com/markusvankempen/TJBotMqttSttAndTTs
 
@@ -15,7 +18,11 @@ Here you can find recipes which enhance the standard TJBot.
 #### Short Video: https://youtu.be/rL14kT2-OLs
 #### Code : https://github.com/markusvankempen/TJBotWIoTAndConversation
 
-## No 4 - Control TJ via a Chatbot from anywhere
+# No 4 - Control TJ via a Chatbot from anywhere
+### Overview
+<img src="https://raw.githubusercontent.com/markusvankempen/TJBotAndChatBot/master/images/Screenshot%202017-06-18%2018.49.39.png" width="450"/>
+
+### Dashboard with integrated ChatBot to remotely control TJBot
 <img src="https://raw.githubusercontent.com/markusvankempen/TJBotAndChatBot/master/images/Screenshot%202017-06-20%2016.27.57.png" width="450"/>
 
 #### Short Video: https://youtu.be/i_r6BFsCIQE
