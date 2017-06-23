@@ -1,5 +1,6 @@
 ## PimpMyTJBot
-Here you can find recipes which enhance the standard TJBot.
+<a href=http://pimpmytjbot.mybluemix.net/><img src="http://pimpmytjbot.mybluemix.net/images/PimMyTJBotV1.png" width="150"/></a> http://pimpmytjbot.mybluemix.net/ or 
+### Below you can find recipes which enhance the standard TJBot.
 ## Basic setup instructions video
 #### go through these steps 1st please -  https://youtu.be/vLW-JrafW30
 ###
